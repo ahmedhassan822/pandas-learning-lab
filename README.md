@@ -8,3 +8,6 @@ ands-on Pandas practice — data cleaning, transformation, EDA, and real dataset
 
 <!-- Jupyter Notebook Button -->
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?style=for-the-badge&logo=jupyter&logoColor=white)](YOUR_NOTEBOOK_URL)
+<a href="YOUR_LINKEDIN_URL" target="_blank">
+   <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" data-rawwidth="150" data-rawheight="40" width="150" height="40">
+</a>
