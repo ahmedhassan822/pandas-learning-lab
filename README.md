@@ -1,5 +1,3 @@
-# pandas
-ands-on Pandas practice — data cleaning, transformation, EDA, and real datasets
 # WHO Life Expectancy: EDA + Linear Regression Insights
 
 Exploratory data analysis and a predictive linear regression model built on 16 years (2000–2015)
@@ -17,7 +15,7 @@ development, and education relate to life expectancy.
 from WHO Global Health Observatory and UN data by Deeksha Russell and Duan Wang.
 
 ## Author
-Ahmed Hassan — Mathematics Lecturer | Researcher in fractional calculus & epidemiological modeling,
+Ahmed Hassan — Mathematics Researcher | Data Analytics & Mathematical modeling,
 applying a quantitative health-modeling lens to data science.
 
 ## Also published on
